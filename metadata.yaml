@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '25412'
     url: http://www.gutenberg.org/2009/agents/25412
     wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 64519-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Robert Moore
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33777
     wikipedia: https://en.wikipedia.org/wiki/Robert_Moore_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64519#What-Inhabits-Me
 gutenberg_issued: '2021-02-11'
 gutenberg_type: Text
 identifiers:
